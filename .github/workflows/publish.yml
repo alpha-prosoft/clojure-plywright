@@ -1,0 +1,69 @@
+name: Publish to Clojars
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0  # Fetch all history to count commits
+
+      - name: Setup Java
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Setup Clojure
+        uses: DeLaGuardo/setup-clojure@master
+        with:
+          cli: latest
+
+      - name: Cache Clojure dependencies
+        uses: actions/cache@v5
+        with:
+          path: |
+            ~/.m2/repository
+            ~/.gitlibs
+          key: ${{ runner.os }}-clojure-${{ hashFiles('deps.edn') }}
+          restore-keys: |
+            ${{ runner.os }}-clojure-
+
+      - name: Calculate version
+        id: version
+        run: |
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          VERSION="1.${COMMIT_COUNT}"
+          echo "VERSION=${VERSION}" >> $GITHUB_OUTPUT
+          echo "Calculated version: ${VERSION}"
+
+      - name: Download dependencies
+        run: clojure -P
+
+      - name: Build library JAR
+        run: clojure -T:build jar
+        env:
+          VERSION: ${{ steps.version.outputs.VERSION }}
+
+      - name: Deploy to Clojars
+        run: clojure -X:deploy :artifact "target/clojure-playwright-${{ steps.version.outputs.VERSION }}.jar"
+        env:
+          CLOJARS_USERNAME: ${{ secrets.CLOJARS_USERNAME }}
+          CLOJARS_PASSWORD: ${{ secrets.CLOJARS_PASSWORD }}
+
+      - name: Create Git tag
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git tag -a "v${{ steps.version.outputs.VERSION }}" -m "Release version ${{ steps.version.outputs.VERSION }}"
+          git push origin "v${{ steps.version.outputs.VERSION }}" || echo "Tag already exists or push failed"
+        continue-on-error: true

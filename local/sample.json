@@ -1,0 +1,4361 @@
+{
+	"event": {
+		"description": "event-tournament-svc/9f8a1171-f478-428a-be3e-3b8357fc794f/0f055800-f61c-4ae0-a872-1815ad16d634/description",
+		"date": "2025-06-14",
+		"live-id": "#84215043-2c67-478c-96a2-3095c213b0db",
+		"name": "2025 Austria Open - Competirors and Coach registration",
+		"type": ":tournament",
+		"image": "event-tournament-svc/9f8a1171-f478-428a-be3e-3b8357fc794f/0f055800-f61c-4ae0-a872-1815ad16d634/image",
+		"activities": [
+			{
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "Kata"
+			},
+			{
+				"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0",
+				"name": "Kumite"
+			},
+			{
+				"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717",
+				"name": "Coach"
+			},
+			{
+				"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f",
+				"name": "Team Kata"
+			}
+		]
+	},
+	"status": ":active",
+	"id": "#0f055800-f61c-4ae0-a872-1815ad16d634",
+	"attrs": {
+		"description": "",
+		"participants": [
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#904d1833-a9f5-49b7-ad4f-cc3ca24c7af7",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "NEZIRI",
+					"first-name": "Leon",
+					"date-of-birth": "2018-03-26",
+					"weight": 23,
+					"full-name": "NEZIRI Leon",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/904d1833-a9f5-49b7-ad4f-cc3ca24c7af7/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 123
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#566df5fa-bd58-43be-b822-f981af17c7bb",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "NEZIRI",
+					"first-name": "Amar",
+					"date-of-birth": "2016-02-17",
+					"weight": 26,
+					"full-name": "NEZIRI Amar",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/566df5fa-bd58-43be-b822-f981af17c7bb/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 123
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#921365c7-5711-47ee-9230-e8cf70126ee3",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "NEZIRI",
+					"first-name": "Hamza",
+					"date-of-birth": "2013-09-21",
+					"weight": 35,
+					"full-name": "NEZIRI Hamza",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/921365c7-5711-47ee-9230-e8cf70126ee3/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 136
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#971b0b93-3c74-46dd-b0bf-d78b028264dd",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "NEZIRI",
+					"first-name": "Melisa",
+					"date-of-birth": "2012-05-25",
+					"weight": 38,
+					"full-name": "NEZIRI Melisa",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/971b0b93-3c74-46dd-b0bf-d78b028264dd/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#f7da596e-ba7e-4ca7-940a-37e139a4140a",
+				"profile-id": "#0136633f-896f-40e4-8c8a-21f332415019",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "DEMARS",
+					"first-name": "Giulia",
+					"date-of-birth": "2018-01-05",
+					"weight": 25,
+					"count": 0,
+					"full-name": "DEMARS Giulia",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/f7da596e-ba7e-4ca7-940a-37e139a4140a/0136633f-896f-40e4-8c8a-21f332415019/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 124
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#6d8a59fc-b38f-4b9a-82f0-9e2aab797511",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Szczepański ",
+					"first-name": "Franciszek ",
+					"date-of-birth": "2013-07-31",
+					"weight": 42,
+					"full-name": "SZCZEPAŃSKI  Franciszek",
+					"club": "Ciechanowski Klubu Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/6d8a59fc-b38f-4b9a-82f0-9e2aab797511/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 150
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#a22495d9-9514-4166-945a-796cd92bafe7",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Szczepański ",
+					"first-name": "Krzysztof",
+					"date-of-birth": "1982-06-14",
+					"weight": 75,
+					"full-name": "SZCZEPAŃSKI  Krzysztof",
+					"club": "Ciechanowski Klub Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/a22495d9-9514-4166-945a-796cd92bafe7/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#eee44e7b-e2d2-40ce-bbd8-3cb16aadb37f",
+				"attrs": {
+					"kyu-dan": 15,
+					"last-name": "Krzak",
+					"first-name": "Kamila",
+					"date-of-birth": "1986-07-05",
+					"weight": 58,
+					"full-name": "KRZAK Kamila",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/eee44e7b-e2d2-40ce-bbd8-3cb16aadb37f/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 165
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#5891fe3e-587d-4ce3-965c-b39c3cbcfb37",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Dworaczek",
+					"first-name": "Jakub",
+					"date-of-birth": "2009-03-08",
+					"weight": 79,
+					"full-name": "DWORACZEK Jakub",
+					"club": "Katowice ",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/5891fe3e-587d-4ce3-965c-b39c3cbcfb37/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 180
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#dd5ecfdc-1b26-4f10-9b1c-7294b2fa462a",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Dworaczek",
+					"first-name": "Marcin",
+					"date-of-birth": "2012-01-23",
+					"weight": 61,
+					"full-name": "DWORACZEK Marcin",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/dd5ecfdc-1b26-4f10-9b1c-7294b2fa462a/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 165
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#3ec66321-137e-416a-ab76-5424256cc501",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Pankiewicz",
+					"first-name": "Julia",
+					"date-of-birth": "2013-04-16",
+					"weight": 40,
+					"full-name": "PANKIEWICZ Julia",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/3ec66321-137e-416a-ab76-5424256cc501/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 140
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#03bcdb48-5095-479f-8e2f-af2c03a9efc4",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Banasiewicz ",
+					"first-name": "Kuba",
+					"date-of-birth": "2011-03-07",
+					"weight": 59,
+					"full-name": "BANASIEWICZ  Kuba",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/03bcdb48-5095-479f-8e2f-af2c03a9efc4/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#ab6dee7f-48c8-4a9e-a5cc-0f085ac05f16",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Jonak",
+					"first-name": "Patryk",
+					"date-of-birth": "2011-12-15",
+					"weight": 68,
+					"full-name": "JONAK Patryk",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/ab6dee7f-48c8-4a9e-a5cc-0f085ac05f16/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#d0903b95-d1e0-4541-a3d0-08e3a9d25241",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Krzak",
+					"first-name": "Igor",
+					"date-of-birth": "2012-10-05",
+					"weight": 38,
+					"full-name": "KRZAK Igor",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/d0903b95-d1e0-4541-a3d0-08e3a9d25241/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 140
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#f8712e9e-d121-405c-8ecf-f28c6238805a",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Pyzik",
+					"first-name": "Karolina",
+					"date-of-birth": "2015-07-23",
+					"weight": 36,
+					"full-name": "PYZIK Karolina",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/f8712e9e-d121-405c-8ecf-f28c6238805a/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 135
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#6d4e56dd-47a9-45ce-a9fc-8f2cd6f8a8ca",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Pyzik",
+					"first-name": "Iwona",
+					"date-of-birth": "1985-01-19",
+					"weight": 0,
+					"full-name": "PYZIK Iwona",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/6d4e56dd-47a9-45ce-a9fc-8f2cd6f8a8ca/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#6447ee6e-c14b-40b2-90ae-be14d21b9abd",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Jonak",
+					"first-name": "Krzysztof",
+					"date-of-birth": "1985-12-24",
+					"weight": 89,
+					"full-name": "JONAK Krzysztof",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/6447ee6e-c14b-40b2-90ae-be14d21b9abd/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 180
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#1b595102-f069-475f-a0ff-472aa3d49504",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Łuczka",
+					"first-name": "Liliana",
+					"date-of-birth": "2017-08-01",
+					"weight": 24,
+					"full-name": "ŁUCZKA Liliana",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/1b595102-f069-475f-a0ff-472aa3d49504/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 125
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#aa161fa5-b925-4351-80fa-45e4002aedef",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Łuczka",
+					"first-name": "Weronika",
+					"date-of-birth": "2011-01-16",
+					"weight": 45,
+					"full-name": "ŁUCZKA Weronika",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/aa161fa5-b925-4351-80fa-45e4002aedef/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#f69f101c-cc11-45c8-b09a-e3c90be4a132",
+				"profile-id": "#830d7cb6-badb-420d-a128-21e89d1f22f1",
+				"attrs": {
+					"kyu-dan": 14,
+					"last-name": "Krzak",
+					"first-name": "Michał",
+					"date-of-birth": "1979-09-10",
+					"weight": 82,
+					"full-name": "KRZAK Michał",
+					"club": "Katowice",
+					"image": "user-svc/f69f101c-cc11-45c8-b09a-e3c90be4a132/830d7cb6-badb-420d-a128-21e89d1f22f1/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 180
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#ef98ca14-d44e-4a62-85e8-9ccaab07f8d7",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Simińska ",
+					"first-name": "Gabriela",
+					"date-of-birth": "2008-01-09",
+					"weight": 74,
+					"full-name": "SIMIŃSKA  Gabriela",
+					"club": "Ciechanowski Klubu Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/ef98ca14-d44e-4a62-85e8-9ccaab07f8d7/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#8f8fe8d1-d76b-47de-b291-3e1cf34731de",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Jakubiak ",
+					"first-name": "Patrycja",
+					"date-of-birth": "2008-06-01",
+					"weight": 56,
+					"full-name": "JAKUBIAK  Patrycja",
+					"club": "Ciechanowski Klub Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/8f8fe8d1-d76b-47de-b291-3e1cf34731de/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 167
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#7db136c4-912a-40ef-b8a8-8ae4a2d19b35",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Gołębiewska ",
+					"first-name": "Nina",
+					"date-of-birth": "2013-03-19",
+					"weight": 36,
+					"full-name": "GOŁĘBIEWSKA  Nina",
+					"club": "Ciechanowski Klubu Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/7db136c4-912a-40ef-b8a8-8ae4a2d19b35/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 153
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#9850d447-739f-4ffe-91f2-a5031c3b88dc",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Grzegorczyk",
+					"first-name": "Marta",
+					"date-of-birth": "2007-07-21",
+					"weight": 50,
+					"full-name": "GRZEGORCZYK Marta",
+					"club": "Ciechanowski Klubu Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/9850d447-739f-4ffe-91f2-a5031c3b88dc/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#8e28d31e-f56d-4fc9-9901-f1758ecb59bd",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Mądry ",
+					"first-name": "Szymon ",
+					"date-of-birth": "2008-06-29",
+					"weight": 60,
+					"full-name": "MĄDRY  Szymon",
+					"club": "Ciechanowski Klubu Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/8e28d31e-f56d-4fc9-9901-f1758ecb59bd/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 172
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#f77c0e73-f450-482e-a5ce-dc4286269dbc",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Mieszkowski ",
+					"first-name": "Jakub ",
+					"date-of-birth": "2011-05-15",
+					"weight": 44,
+					"full-name": "MIESZKOWSKI  Jakub",
+					"club": "Ciechanowski Klub Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/f77c0e73-f450-482e-a5ce-dc4286269dbc/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#323eac74-1b1a-4029-9168-aa74442f8f88",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Pikus",
+					"first-name": "Paweł ",
+					"date-of-birth": "2007-07-14",
+					"weight": 98,
+					"full-name": "PIKUS Paweł",
+					"club": "Ciechanowski Klub Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/323eac74-1b1a-4029-9168-aa74442f8f88/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 185
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#5a953a2b-adf1-496b-8d0b-d686636f7e07",
+				"profile-id": "#3f9fa03e-57d2-4894-aae7-d623e49a6c6e",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Pikus ",
+					"first-name": "Magdalena ",
+					"date-of-birth": "2009-06-15",
+					"weight": 68,
+					"full-name": "PIKUS  Magdalena",
+					"club": "Ciechanowski Klub Karate Kyokushin ",
+					"image": "user-svc/5a953a2b-adf1-496b-8d0b-d686636f7e07/3f9fa03e-57d2-4894-aae7-d623e49a6c6e/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 169
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b0fb8e87-4cec-45e5-b340-2db77a7fda50",
+				"profile-id": "#0e71bed9-19c4-4e28-83db-2e947be74db6",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Harrington",
+					"first-name": "Zack",
+					"date-of-birth": "2018-05-17",
+					"weight": 23,
+					"count": 0,
+					"full-name": "HARRINGTON Zack",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/b0fb8e87-4cec-45e5-b340-2db77a7fda50/0e71bed9-19c4-4e28-83db-2e947be74db6/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 123
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#653204d0-632a-4d94-8900-e7eb80180e1d",
+				"profile-id": "#7e0bb8fa-1bc4-4dd1-a0d0-2222459a4b50",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Smrcka",
+					"first-name": "Jacqueline",
+					"date-of-birth": "1994-09-20",
+					"weight": 55,
+					"count": 0,
+					"full-name": "SMRCKA Jacqueline",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/653204d0-632a-4d94-8900-e7eb80180e1d/7e0bb8fa-1bc4-4dd1-a0d0-2222459a4b50/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 159
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#a042045f-f3ac-4cb9-8cd9-9f721f4fbffc",
+				"profile-id": "#fc28518d-de50-4570-be87-32ca0231ac7b",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Alva",
+					"first-name": "Galambfalvy",
+					"date-of-birth": "2015-12-26",
+					"weight": 24,
+					"count": 0,
+					"full-name": "ALVA Galambfalvy",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/a042045f-f3ac-4cb9-8cd9-9f721f4fbffc/fc28518d-de50-4570-be87-32ca0231ac7b/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 124
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b98299a2-cbe2-4bf5-a4f0-3b58ece761bd",
+				"profile-id": "#42b6f81a-8344-46b7-a810-747addd32b70",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Selimovic",
+					"first-name": "Sasa",
+					"date-of-birth": "2013-02-28",
+					"weight": 49,
+					"count": 0,
+					"full-name": "SELIMOVIC Sasa",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/b98299a2-cbe2-4bf5-a4f0-3b58ece761bd/42b6f81a-8344-46b7-a810-747addd32b70/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 142
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b98299a2-cbe2-4bf5-a4f0-3b58ece761bd",
+				"profile-id": "#d9a9e284-1b3d-4df9-b415-e916f060440c",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Selimovic ",
+					"first-name": "Leon",
+					"date-of-birth": "2016-05-23",
+					"weight": 30,
+					"count": 0,
+					"full-name": "SELIMOVIC  Leon",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/b98299a2-cbe2-4bf5-a4f0-3b58ece761bd/d9a9e284-1b3d-4df9-b415-e916f060440c/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 128
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#1b1578e8-b4ae-4495-b33e-0f3ef2e5761b",
+				"profile-id": "#e992a238-391c-493b-900e-4e30b610636e",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Chudoian",
+					"first-name": "Anri",
+					"date-of-birth": "2017-10-08",
+					"weight": 40,
+					"count": 0,
+					"full-name": "CHUDOIAN Anri",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/1b1578e8-b4ae-4495-b33e-0f3ef2e5761b/e992a238-391c-493b-900e-4e30b610636e/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 136
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#de0a3598-1f4f-4ff3-aa9e-b286a8551fb4",
+				"profile-id": "#311b08dd-d298-4237-87b1-3a679a5b9f3d",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Cordeta",
+					"first-name": "Johann Den Patrick",
+					"date-of-birth": "2016-09-11",
+					"weight": 29,
+					"count": 0,
+					"full-name": "CORDETA Johann Den Patrick",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/de0a3598-1f4f-4ff3-aa9e-b286a8551fb4/311b08dd-d298-4237-87b1-3a679a5b9f3d/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 130
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#4c6aca69-1009-4496-94c6-b6acea47fec2",
+				"profile-id": "#f7f570d9-eff6-4b86-91f2-6e2ce88f259f",
+				"attrs": {
+					"kyu-dan": 14,
+					"last-name": "Sithembiso ",
+					"first-name": "Majozi",
+					"date-of-birth": "1977-08-03",
+					"weight": 77,
+					"full-name": "SITHEMBISO  Majozi",
+					"club": "Tokei London",
+					"image": "user-svc/4c6aca69-1009-4496-94c6-b6acea47fec2/f7f570d9-eff6-4b86-91f2-6e2ce88f259f/image",
+					"gender": ":male",
+					"country": "GB",
+					"height": 178
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#4c6aca69-1009-4496-94c6-b6acea47fec2",
+				"profile-id": "#6be78291-b736-49d5-9696-09b8d2e021fc",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "Jahmaine ",
+					"first-name": "Christie ",
+					"date-of-birth": "1981-04-25",
+					"weight": 98,
+					"full-name": "JAHMAINE  Christie",
+					"club": "Tokei London",
+					"image": "user-svc/4c6aca69-1009-4496-94c6-b6acea47fec2/6be78291-b736-49d5-9696-09b8d2e021fc/image",
+					"gender": ":male",
+					"country": "GB",
+					"height": 182
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#4c1cb89d-f9d1-4e8f-97de-bc4957f5d2bf",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Dzodan",
+					"first-name": "Dragan",
+					"date-of-birth": "1976-12-05",
+					"weight": 78,
+					"count": 0,
+					"full-name": "DZODAN Dragan",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/4c1cb89d-f9d1-4e8f-97de-bc4957f5d2bf/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 178
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#051ed257-9931-4d53-88fa-8b0f096eec53",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Dzodan",
+					"first-name": "Mateja",
+					"date-of-birth": "2013-03-14",
+					"weight": 34,
+					"count": 0,
+					"full-name": "DZODAN Mateja",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/051ed257-9931-4d53-88fa-8b0f096eec53/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 143
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#b21b5c8e-f7b5-4b9b-87cb-ba384c20cf4b",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Dzodan",
+					"first-name": "Neven",
+					"date-of-birth": "2015-10-13",
+					"weight": 38,
+					"count": 0,
+					"full-name": "DZODAN Neven",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/b21b5c8e-f7b5-4b9b-87cb-ba384c20cf4b/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 137
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#757318c0-bc76-45e5-9696-83719623ef9b",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Papadopoulos",
+					"first-name": "Angelos ",
+					"date-of-birth": "2008-04-18",
+					"weight": 65,
+					"full-name": "PAPADOPOULOS Angelos",
+					"club": "IKO Germany ",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/757318c0-bc76-45e5-9696-83719623ef9b/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 180
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#e49bf755-b42a-4ca0-b50d-29e27a9f9f0c",
+				"profile-id": "#18ef0893-bbd5-4764-9a3a-f72d2c3ff6c5",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "Dorottya Annabell",
+					"first-name": "Nagy",
+					"date-of-birth": "2007-07-27",
+					"weight": 42,
+					"full-name": "DOROTTYA ANNABELL Nagy",
+					"club": "UDSE - KyoTeam",
+					"image": "user-svc/e49bf755-b42a-4ca0-b50d-29e27a9f9f0c/18ef0893-bbd5-4764-9a3a-f72d2c3ff6c5/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 154
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3",
+				"profile-id": "#fa39049a-24ca-4aed-ad2e-1b468b0d5b19",
+				"attrs": {
+					"kyu-dan": 15,
+					"last-name": "Kopcsányi",
+					"first-name": "Tamás",
+					"date-of-birth": "1988-03-06",
+					"weight": 90,
+					"full-name": "KOPCSÁNYI Tamás",
+					"club": "Ronin - Kyo Team",
+					"image": "user-svc/fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3/fa39049a-24ca-4aed-ad2e-1b468b0d5b19/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3",
+				"profile-id": "#0f533afc-3ad2-4de5-b1c0-f0ba370029a2",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Szorg",
+					"first-name": "Lara",
+					"date-of-birth": "2007-12-17",
+					"weight": 60,
+					"full-name": "SZORG Lara",
+					"club": "Ronin - Kyo Team",
+					"image": "user-svc/fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3/0f533afc-3ad2-4de5-b1c0-f0ba370029a2/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3",
+				"profile-id": "#d32b2d7e-00f6-42c0-867d-1899830dae99",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Hodászi",
+					"first-name": "Dominika",
+					"date-of-birth": "2002-09-23",
+					"weight": 48,
+					"full-name": "HODÁSZI Dominika",
+					"club": "Ronin - Kyo Team",
+					"image": "user-svc/fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3/d32b2d7e-00f6-42c0-867d-1899830dae99/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3",
+				"profile-id": "#4601d082-bb1a-4a0c-b800-86dbc458f7bb",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Miloneán",
+					"first-name": "Jonatán",
+					"date-of-birth": "2007-10-07",
+					"weight": 67,
+					"full-name": "MILONEÁN Jonatán",
+					"club": "Ronin - Kyo Team",
+					"image": "user-svc/fb752b0f-5c43-44cc-9e3d-3b63d75aa9d3/4601d082-bb1a-4a0c-b800-86dbc458f7bb/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#4c6aca69-1009-4496-94c6-b6acea47fec2",
+				"profile-id": "#5540f04b-c9bd-4b64-ba81-8cd852d92940",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "KUHN",
+					"first-name": "Erik",
+					"date-of-birth": "2012-12-09",
+					"weight": 40,
+					"full-name": "KUHN Erik",
+					"club": "Tokei London ",
+					"image": "user-svc/4c6aca69-1009-4496-94c6-b6acea47fec2/5540f04b-c9bd-4b64-ba81-8cd852d92940/image",
+					"gender": ":male",
+					"country": "GB",
+					"height": 158
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#4c6aca69-1009-4496-94c6-b6acea47fec2",
+				"profile-id": "#b99500a4-7588-4e0c-b76a-e4bfb89fed94",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "KUHN",
+					"first-name": "Edson",
+					"date-of-birth": "1978-09-29",
+					"weight": 77,
+					"full-name": "KUHN Edson",
+					"club": "Tokei London ",
+					"image": "user-svc/4c6aca69-1009-4496-94c6-b6acea47fec2/b99500a4-7588-4e0c-b76a-e4bfb89fed94/image",
+					"gender": ":male",
+					"country": "GB",
+					"height": 180
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#eeb636d5-7aa1-4a3f-ab1a-6dce00101098",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "PARASCHIV",
+					"first-name": "Nicolae",
+					"date-of-birth": "1982-07-09",
+					"weight": 74,
+					"full-name": "PARASCHIV Nicolae",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/eeb636d5-7aa1-4a3f-ab1a-6dce00101098/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#d3e28e4c-0ad2-4a4e-b8b2-f04f100aa893",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Nadja Kristina",
+					"first-name": "Nadja",
+					"date-of-birth": "1986-11-03",
+					"weight": 60,
+					"full-name": "NADJA KRISTINA Nadja",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/d3e28e4c-0ad2-4a4e-b8b2-f04f100aa893/image",
+					"gender": ":female",
+					"country": "UA",
+					"height": 38
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#7c8b3217-5c60-48fc-ae9f-e1c47e1f7fb6",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Oleksandr Kristin",
+					"first-name": "Oleksandr",
+					"date-of-birth": "2008-06-21",
+					"weight": 74,
+					"full-name": "OLEKSANDR KRISTIN Oleksandr",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/7c8b3217-5c60-48fc-ae9f-e1c47e1f7fb6/image",
+					"gender": ":male",
+					"country": "UA",
+					"height": 16
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#a042045f-f3ac-4cb9-8cd9-9f721f4fbffc",
+				"profile-id": "#dd245d99-df36-4d19-a5f9-d86f25b3a5ca",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Galambfalvy",
+					"first-name": "Julia",
+					"date-of-birth": "1983-08-03",
+					"weight": 48,
+					"count": 0,
+					"full-name": "GALAMBFALVY Julia",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/a042045f-f3ac-4cb9-8cd9-9f721f4fbffc/dd245d99-df36-4d19-a5f9-d86f25b3a5ca/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 168
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#6a2aae3e-1d6f-4623-92a4-5b3ed806c617",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Shomakhteh",
+					"first-name": "Mohsen",
+					"date-of-birth": "1983-05-10",
+					"weight": 60,
+					"full-name": "SHOMAKHTEH Mohsen",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/6a2aae3e-1d6f-4623-92a4-5b3ed806c617/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#5f58b5da-0306-4fac-9d2f-dc5f4bb0ebcd",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Shomakhteh",
+					"first-name": "Mohammadjavad",
+					"date-of-birth": "2008-10-01",
+					"weight": 59,
+					"full-name": "SHOMAKHTEH Mohammadjavad",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/5f58b5da-0306-4fac-9d2f-dc5f4bb0ebcd/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#9641ca26-ef96-4b9b-b692-63ed273d42bf",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Antoni",
+					"first-name": "Elias",
+					"date-of-birth": "2009-10-26",
+					"weight": 54,
+					"full-name": "ANTONI Elias",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/9641ca26-ef96-4b9b-b692-63ed273d42bf/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 167
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#9fffe5ca-d284-4722-8d6c-4e1a718a99a7",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Adigüzel",
+					"first-name": "Kaan ",
+					"date-of-birth": "2009-11-16",
+					"weight": 54,
+					"full-name": "ADIGÜZEL Kaan",
+					"club": "IKO Germany",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/9fffe5ca-d284-4722-8d6c-4e1a718a99a7/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 167
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#7e07ed06-9be2-4609-9cfd-1f5473f9c9f2",
+				"attrs": {
+					"kyu-dan": 1,
+					"last-name": "Kateryna Televna",
+					"first-name": "Nadya",
+					"date-of-birth": "2016-03-08",
+					"weight": 35,
+					"full-name": "KATERYNA TELEVNA Nadya",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/7e07ed06-9be2-4609-9cfd-1f5473f9c9f2/image",
+					"gender": ":female",
+					"country": "UA",
+					"height": 9
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#b3215395-6f72-4f15-aced-423b4bbdeac1",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Oleksandr Pokryshchenko",
+					"first-name": "Nadya",
+					"date-of-birth": "2015-10-06",
+					"weight": 33,
+					"full-name": "OLEKSANDR POKRYSHCHENKO Nadya",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/b3215395-6f72-4f15-aced-423b4bbdeac1/image",
+					"gender": ":male",
+					"country": "UA",
+					"height": 9
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#cad79021-19ad-418e-b663-b448f0b50ac6",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Ihor Honcharenko",
+					"first-name": "Nadya",
+					"date-of-birth": "2014-05-07",
+					"weight": 37,
+					"full-name": "IHOR HONCHARENKO Nadya",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/cad79021-19ad-418e-b663-b448f0b50ac6/image",
+					"gender": ":male",
+					"country": "UA",
+					"height": 11
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#f897d247-a5f9-43f4-b443-9c41a11de338",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Vladyslava Pievnieva",
+					"first-name": "Nadya",
+					"date-of-birth": "2011-08-23",
+					"weight": 68,
+					"full-name": "VLADYSLAVA PIEVNIEVA Nadya",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/f897d247-a5f9-43f4-b443-9c41a11de338/image",
+					"gender": ":female",
+					"country": "UA",
+					"height": 13
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#79d16877-86b5-4571-8a6e-29da0761777e",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Valentyna Pokryshchenko",
+					"first-name": "Nadya",
+					"date-of-birth": "1993-06-22",
+					"weight": 56,
+					"full-name": "VALENTYNA POKRYSHCHENKO Nadya",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/79d16877-86b5-4571-8a6e-29da0761777e/image",
+					"gender": ":female",
+					"country": "UA",
+					"height": 31
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#08960356-8144-4986-81ec-5aa2daeca693",
+				"profile-id": "#83a19f27-6e37-49ff-8715-e26c67ddeef1",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "KALISIEWICZ",
+					"first-name": "KINGA",
+					"date-of-birth": "2007-11-13",
+					"weight": 60,
+					"full-name": "KALISIEWICZ KINGA",
+					"club": "ZAMBROWSKI KLUB KARATE KYOKUSHIN - ANNA KACZYNSKA",
+					"image": "user-svc/08960356-8144-4986-81ec-5aa2daeca693/83a19f27-6e37-49ff-8715-e26c67ddeef1/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 167
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#e49bf755-b42a-4ca0-b50d-29e27a9f9f0c",
+				"profile-id": "#ed283372-0913-4542-8d13-c3f0c08a3760",
+				"attrs": {
+					"kyu-dan": 14,
+					"last-name": "Gábor",
+					"first-name": "Kerekes",
+					"date-of-birth": "1982-04-26",
+					"weight": 95,
+					"full-name": "GÁBOR Kerekes",
+					"club": "UDSE - KyoTeam",
+					"image": "user-svc/e49bf755-b42a-4ca0-b50d-29e27a9f9f0c/ed283372-0913-4542-8d13-c3f0c08a3760/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 178
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#e49bf755-b42a-4ca0-b50d-29e27a9f9f0c",
+				"profile-id": "#a645ff67-f367-42f4-9177-9e1a69c95925",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Mercédesz",
+					"first-name": "Kucsera",
+					"date-of-birth": "2013-10-30",
+					"weight": 41,
+					"full-name": "MERCÉDESZ Kucsera",
+					"club": "UDSE - KyoTeam",
+					"image": "user-svc/e49bf755-b42a-4ca0-b50d-29e27a9f9f0c/a645ff67-f367-42f4-9177-9e1a69c95925/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 149
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#e49bf755-b42a-4ca0-b50d-29e27a9f9f0c",
+				"profile-id": "#7a3b6ce7-fa7d-4dbb-9dac-ba4493e6d108",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Bence",
+					"first-name": "Burai",
+					"date-of-birth": "2012-02-29",
+					"weight": 58,
+					"full-name": "BENCE Burai",
+					"club": "UDSE - KyoTeam",
+					"image": "user-svc/e49bf755-b42a-4ca0-b50d-29e27a9f9f0c/7a3b6ce7-fa7d-4dbb-9dac-ba4493e6d108/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#73a5b457-6298-4756-98ca-f128d15318a8",
+				"profile-id": "#6bee257e-8d6d-4938-8620-0f6241a62576",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Lisa",
+					"first-name": "Ekeh",
+					"date-of-birth": "2012-01-26",
+					"weight": 58,
+					"count": 0,
+					"full-name": "LISA Ekeh",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/73a5b457-6298-4756-98ca-f128d15318a8/6bee257e-8d6d-4938-8620-0f6241a62576/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#e7b029ce-0702-49a0-b7bd-82dabc28a660",
+				"attrs": {
+					"kyu-dan": 14,
+					"last-name": "Bokor",
+					"first-name": "Anita",
+					"date-of-birth": "1972-03-26",
+					"weight": 65,
+					"full-name": "BOKOR Anita",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/e7b029ce-0702-49a0-b7bd-82dabc28a660/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 162
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#f0f00942-2191-4909-b5b3-2dc9afc7d49f",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Sulyok ",
+					"first-name": "Dávid",
+					"date-of-birth": "2011-10-21",
+					"weight": 60,
+					"full-name": "SULYOK  Dávid",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/f0f00942-2191-4909-b5b3-2dc9afc7d49f/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#699704f3-251a-4d97-9ea4-e98b90bc3442",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Kis",
+					"first-name": "Melinda",
+					"date-of-birth": "2010-05-19",
+					"weight": 53,
+					"full-name": "KIS Melinda",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/699704f3-251a-4d97-9ea4-e98b90bc3442/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 166
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#21526198-5c7f-4bf2-a29e-5d4f76ad520e",
+				"profile-id": "#a2799559-866d-4a74-b6cd-8f22330ba903",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Ibrisimovic",
+					"first-name": "Benjamin",
+					"date-of-birth": "2013-11-27",
+					"weight": 46,
+					"count": 0,
+					"full-name": "IBRISIMOVIC Benjamin",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/21526198-5c7f-4bf2-a29e-5d4f76ad520e/a2799559-866d-4a74-b6cd-8f22330ba903/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 158
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#2f27997b-4e89-4f4a-ac87-ac8de34b3e23",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Atanaszov",
+					"first-name": "Jázmin",
+					"date-of-birth": "2012-02-01",
+					"weight": 62,
+					"full-name": "ATANASZOV Jázmin",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/2f27997b-4e89-4f4a-ac87-ac8de34b3e23/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 167
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#33df7059-640c-488a-ac32-cd766302c372",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Djilali-Saiah ",
+					"first-name": "Lotti",
+					"date-of-birth": "2012-11-20",
+					"weight": 60,
+					"full-name": "DJILALI-SAIAH  Lotti",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/33df7059-640c-488a-ac32-cd766302c372/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 150
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#595b5528-05f5-46fc-b0aa-02c1b3a09c27",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Ljáskó ",
+					"first-name": "Olivér",
+					"date-of-birth": "2011-09-27",
+					"weight": 64,
+					"full-name": "LJÁSKÓ  Olivér",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/595b5528-05f5-46fc-b0aa-02c1b3a09c27/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#75418363-bca4-4547-80ff-02ddcaa0e5cc",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Bödecs",
+					"first-name": "Alexa Barbara",
+					"date-of-birth": "2011-02-05",
+					"weight": 59,
+					"full-name": "BÖDECS Alexa Barbara",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/75418363-bca4-4547-80ff-02ddcaa0e5cc/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 167
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c758fa08-5e6d-4521-b978-6d62935abbb2",
+				"profile-id": "#ea322f32-4e09-46b6-a91c-1edaf4f29131",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Arina Polishchuk",
+					"first-name": "Nadya",
+					"date-of-birth": "2013-10-04",
+					"weight": 39,
+					"full-name": "ARINA POLISHCHUK Nadya",
+					"club": "IKO UKRAINE (PFKK IKO)",
+					"image": "user-svc/c758fa08-5e6d-4521-b978-6d62935abbb2/ea322f32-4e09-46b6-a91c-1edaf4f29131/image",
+					"gender": ":female",
+					"country": "UA",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#46f640a8-5e0b-48a8-9856-5e2f64381bfa",
+				"profile-id": "#4d5ec3fc-21f1-4720-a47a-03bfc79d3b1e",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Zsebedics",
+					"first-name": "Zoé Elena",
+					"date-of-birth": "2011-10-29",
+					"weight": 42,
+					"full-name": "ZSEBEDICS Zoé Elena",
+					"club": "Kaizen Dojo - KyoTeam",
+					"image": "user-svc/46f640a8-5e0b-48a8-9856-5e2f64381bfa/4d5ec3fc-21f1-4720-a47a-03bfc79d3b1e/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 149
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#e49bf755-b42a-4ca0-b50d-29e27a9f9f0c",
+				"profile-id": "#b29e9621-7723-4a28-bda1-0674048b4ace",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Csenge Ilona",
+					"first-name": "Fássy",
+					"date-of-birth": "2013-10-05",
+					"weight": 48,
+					"full-name": "CSENGE ILONA Fássy",
+					"club": "UDSE - KyoTeam",
+					"image": "user-svc/e49bf755-b42a-4ca0-b50d-29e27a9f9f0c/b29e9621-7723-4a28-bda1-0674048b4ace/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 152
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#0f299388-f1ec-40df-9e4c-4965fda23fb6",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Useini ",
+					"first-name": "Davud ",
+					"date-of-birth": "1996-07-18",
+					"weight": 85,
+					"full-name": "USEINI  Davud",
+					"club": "IKO Germany ",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/0f299388-f1ec-40df-9e4c-4965fda23fb6/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 173
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#b7b92bac-0fa6-4f3f-aaf6-66392f5943ca",
+				"profile-id": "#f147c646-a8c4-489f-b071-61b739b76ae5",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Gall",
+					"first-name": "Christopher ",
+					"date-of-birth": "1985-07-18",
+					"weight": 70,
+					"full-name": "GALL Christopher",
+					"club": "IKO Germany ",
+					"image": "user-svc/b7b92bac-0fa6-4f3f-aaf6-66392f5943ca/f147c646-a8c4-489f-b071-61b739b76ae5/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 178
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#676853f1-fd3f-4c10-a864-b77a900f3c16",
+				"profile-id": "#273315b0-bd95-43bd-b771-b142f2e43f63",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Kenny ",
+					"first-name": "Michael ",
+					"date-of-birth": "2016-07-31",
+					"weight": 52,
+					"count": 0,
+					"full-name": "KENNY  Michael ",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/676853f1-fd3f-4c10-a864-b77a900f3c16/273315b0-bd95-43bd-b771-b142f2e43f63/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 155
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#83ce7490-cbd8-4562-9796-f17debe4ddae",
+				"profile-id": "#375e469d-fd1d-4401-9fc7-eec0a33cc165",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "Ajeti",
+					"first-name": "Ajredin",
+					"date-of-birth": "1986-08-21",
+					"weight": 75,
+					"full-name": "AJETI Ajredin",
+					"club": "Borac",
+					"image": "user-svc/83ce7490-cbd8-4562-9796-f17debe4ddae/375e469d-fd1d-4401-9fc7-eec0a33cc165/image",
+					"gender": ":male",
+					"country": "RS",
+					"height": 185
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#9d3ae8b9-bf2c-428d-b203-18155509bd6f",
+				"profile-id": "#34388fbc-2eeb-4901-932f-1bdb526c4a5e",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "Lara",
+					"first-name": "Ekeh",
+					"date-of-birth": "2009-02-05",
+					"weight": 60,
+					"count": 0,
+					"full-name": "LARA Ekeh",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/9d3ae8b9-bf2c-428d-b203-18155509bd6f/34388fbc-2eeb-4901-932f-1bdb526c4a5e/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#4ef696ff-61d9-4f04-8a30-83918fcf548d",
+				"profile-id": "#f9c23f5c-e15d-43ab-981b-aa701a67df8b",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Nikiting ",
+					"first-name": "Igor",
+					"date-of-birth": "2013-02-16",
+					"weight": 42,
+					"count": 0,
+					"full-name": "NIKITING  Igor",
+					"club": "Dzierżoniowski Klub Sportowy Karate Kyokushin ",
+					"image": "user-svc/4ef696ff-61d9-4f04-8a30-83918fcf548d/f9c23f5c-e15d-43ab-981b-aa701a67df8b/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 155
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#4ef696ff-61d9-4f04-8a30-83918fcf548d",
+				"profile-id": "#21988744-cc6e-4c2c-b9e8-8337a52cce05",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Rosińska",
+					"first-name": "Kinga",
+					"date-of-birth": "2010-01-01",
+					"weight": 45,
+					"count": 0,
+					"full-name": "ROSIŃSKA Kinga",
+					"club": "Dzierżoniowski Klub Sportowy Karate Kyokushin ",
+					"image": "user-svc/4ef696ff-61d9-4f04-8a30-83918fcf548d/21988744-cc6e-4c2c-b9e8-8337a52cce05/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#4ef696ff-61d9-4f04-8a30-83918fcf548d",
+				"profile-id": "#d9cc13f9-a18f-4dec-8606-e2d13d596657",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Konieczna ",
+					"first-name": "Klara",
+					"date-of-birth": "2011-06-03",
+					"weight": 55,
+					"full-name": "KONIECZNA  Klara",
+					"club": "Dzierżoniowski Klub Sportowy Karate Kyokushin ",
+					"image": "user-svc/4ef696ff-61d9-4f04-8a30-83918fcf548d/d9cc13f9-a18f-4dec-8606-e2d13d596657/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 175
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#4ef696ff-61d9-4f04-8a30-83918fcf548d",
+				"profile-id": "#6067483e-f96e-453a-abac-9ad6d0e62878",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Piszko",
+					"first-name": "Oliwia",
+					"date-of-birth": "2011-11-23",
+					"weight": 63,
+					"full-name": "PISZKO Oliwia",
+					"club": "Dzierżoniowski Klub Sportowy Karate Kyokushin",
+					"image": "user-svc/4ef696ff-61d9-4f04-8a30-83918fcf548d/6067483e-f96e-453a-abac-9ad6d0e62878/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 155
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#d227aca4-699e-4504-8343-cb8d9f72f847",
+				"profile-id": "#bfd51aec-d36e-4527-b6d1-974dad920e82",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Sow",
+					"first-name": "Jonathan",
+					"date-of-birth": "2016-08-14",
+					"weight": 25,
+					"count": 0,
+					"full-name": "SOW Jonathan",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/d227aca4-699e-4504-8343-cb8d9f72f847/bfd51aec-d36e-4527-b6d1-974dad920e82/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 129
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#75628c75-44b7-4600-95ff-ee6aaa40f602",
+				"attrs": {
+					"kyu-dan": 14,
+					"last-name": "Piątowski ",
+					"first-name": "Jakub ",
+					"date-of-birth": "1978-12-24",
+					"weight": 85,
+					"count": 0,
+					"full-name": "PIĄTOWSKI  Jakub ",
+					"club": "Kaliski Klub Karate Kyokushinkai ",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/75628c75-44b7-4600-95ff-ee6aaa40f602/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 182
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#8fc0b070-fe53-4123-b6f9-00df4c372533",
+				"attrs": {
+					"kyu-dan": 13,
+					"last-name": "Kapkan",
+					"first-name": "Olena ",
+					"date-of-birth": "1995-01-04",
+					"weight": 55,
+					"count": 0,
+					"full-name": "KAPKAN Olena ",
+					"club": "Kaliski Klub Karate Kyokushinkai ",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/8fc0b070-fe53-4123-b6f9-00df4c372533/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#34e6b969-2cbb-4d5b-8e3b-73a5591a3c20",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Mielczarek ",
+					"first-name": "Jakub",
+					"date-of-birth": "2011-02-15",
+					"weight": 43,
+					"count": 0,
+					"full-name": "MIELCZAREK  Jakub",
+					"club": "Kaliski Klub Karate Kyokushinkai ",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/34e6b969-2cbb-4d5b-8e3b-73a5591a3c20/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 166
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#fd687c92-2216-4f18-adf7-2f5df1f9c5e3",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Jaworowicz ",
+					"first-name": "Andrzej ",
+					"date-of-birth": "2008-09-26",
+					"weight": 55,
+					"full-name": "JAWOROWICZ  Andrzej",
+					"club": "Kaliski Klub Karate Kyokushinkai ",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/fd687c92-2216-4f18-adf7-2f5df1f9c5e3/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 172
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#4a2ee743-b15b-41fc-ada8-60a795bb83e3",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Kical",
+					"first-name": "Maksymilian ",
+					"date-of-birth": "2010-12-10",
+					"weight": 68,
+					"count": 0,
+					"full-name": "KICAL Maksymilian ",
+					"club": "Kaliski Klub Karate Kyokushinkai ",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/4a2ee743-b15b-41fc-ada8-60a795bb83e3/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 182
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#f670dd06-4a98-46c1-9f7d-0b52b1616937",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Tęsiorowska",
+					"first-name": "Sara",
+					"date-of-birth": "2018-04-26",
+					"weight": 26,
+					"full-name": "TĘSIOROWSKA Sara",
+					"club": "Kaliski Klub Karate Kyokushin",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/f670dd06-4a98-46c1-9f7d-0b52b1616937/image",
+					"gender": ":female",
+					"country": "PL",
+					"height": 140
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#3e19d312-fb6f-4998-b30d-af505b8eb85a",
+				"profile-id": "#e6f8c81a-5641-4563-a5b3-4df83e1ef368",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Jerzyk",
+					"first-name": "Kacper",
+					"date-of-birth": "2006-08-27",
+					"weight": 79,
+					"full-name": "JERZYK Kacper",
+					"club": "Kaliski Klub Karate Kyokushin",
+					"image": "user-svc/3e19d312-fb6f-4998-b30d-af505b8eb85a/e6f8c81a-5641-4563-a5b3-4df83e1ef368/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 178
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#b15f7fb1-0ae8-4cb9-8dec-51b0b3640650",
+				"profile-id": "#94d4fa1c-1742-4633-b139-0321258dbc22",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Slater",
+					"first-name": "Carmen",
+					"date-of-birth": "1997-05-27",
+					"weight": 63,
+					"count": 0,
+					"full-name": "SLATER Carmen",
+					"club": "Kyokushin Austria",
+					"gender": ":female",
+					"country": "AT",
+					"height": 163
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#40d81ce5-3fd8-437f-ab2a-8fa63bc12233",
+				"profile-id": "#a0f456c4-550c-4e8e-a11a-1d4b8ef8d84b",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Ivan",
+					"first-name": "Vesely",
+					"date-of-birth": "2016-05-16",
+					"weight": 29,
+					"count": 0,
+					"full-name": "IVAN Vesely",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/40d81ce5-3fd8-437f-ab2a-8fa63bc12233/a0f456c4-550c-4e8e-a11a-1d4b8ef8d84b/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 130
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#c5861ccd-62a5-440d-896d-91037f66ce6a",
+				"profile-id": "#8d59ec1f-994d-4a89-b139-974f5a29e4e8",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Schönherr",
+					"first-name": "Luna",
+					"date-of-birth": "2017-03-05",
+					"weight": 23,
+					"count": 0,
+					"full-name": "SCHÖNHERR Luna",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c5861ccd-62a5-440d-896d-91037f66ce6a/8d59ec1f-994d-4a89-b139-974f5a29e4e8/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 123
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#c16222b4-686c-4374-867a-2dbfed6e6da7",
+				"profile-id": "#0d2eeba0-e394-4242-a7ba-eeb5e9912404",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "Kajic",
+					"first-name": "Davor ",
+					"date-of-birth": "2009-11-18",
+					"weight": 80,
+					"count": 0,
+					"full-name": "KAJIC Davor ",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c16222b4-686c-4374-867a-2dbfed6e6da7/0d2eeba0-e394-4242-a7ba-eeb5e9912404/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 185
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#93933fd2-e362-4b01-b217-67a7229d1c99",
+				"profile-id": "#661af650-6ae8-4579-8df5-cf48a55fdbf2",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Lora",
+					"first-name": "Pofuk",
+					"date-of-birth": "2015-06-12",
+					"weight": 26,
+					"count": 0,
+					"full-name": "LORA Pofuk",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/93933fd2-e362-4b01-b217-67a7229d1c99/661af650-6ae8-4579-8df5-cf48a55fdbf2/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 134
+				},
+				"activities": [
+					{
+						"activity-id": "#6d726b55-13da-4235-bca7-dfbe01a2160f"
+					},
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#33b1f623-31bd-4319-9508-53cd5dd0cd08",
+				"profile-id": "#2063fdb1-68ec-4ae3-8b36-264dc559084d",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "Elias",
+					"first-name": "Marek ",
+					"date-of-birth": "2016-08-08",
+					"weight": 28,
+					"count": 0,
+					"full-name": "ELIAS Marek ",
+					"club": "Kyokushin Austria ",
+					"image": "user-svc/33b1f623-31bd-4319-9508-53cd5dd0cd08/2063fdb1-68ec-4ae3-8b36-264dc559084d/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 134
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#4741daf5-55b1-4d15-813b-42407c7a09ba",
+				"profile-id": "#d0895af9-47c2-4545-8bde-ece4a0c43e80",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Kayihan ",
+					"first-name": "Emir",
+					"date-of-birth": "2009-08-19",
+					"weight": 58,
+					"count": 0,
+					"full-name": "KAYIHAN  Emir",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/4741daf5-55b1-4d15-813b-42407c7a09ba/d0895af9-47c2-4545-8bde-ece4a0c43e80/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 168
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#0945ff39-25ff-4b19-aca8-48cc4c6ebd34",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "MISTELBACHER",
+					"first-name": "Astrid",
+					"date-of-birth": "1985-11-25",
+					"weight": 70,
+					"full-name": "MISTELBACHER Astrid",
+					"club": "Kyokushin AUSTRIA",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/0945ff39-25ff-4b19-aca8-48cc4c6ebd34/image",
+					"gender": ":female",
+					"country": "AT",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#ced80624-ffaf-407b-ac25-94e03f8a4aec",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "SCHMIDTBAUER",
+					"first-name": "Simon",
+					"date-of-birth": "2009-01-27",
+					"weight": 1,
+					"full-name": "SCHMIDTBAUER Simon",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/ced80624-ffaf-407b-ac25-94e03f8a4aec/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 1
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#ff8a2327-6230-484d-acc1-6376ba37a251",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": " KAYMAKCI",
+					"first-name": "İLAYDA ",
+					"date-of-birth": "2008-01-16",
+					"weight": 53,
+					"full-name": "KAYMAKCI İLAYDA",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/ff8a2327-6230-484d-acc1-6376ba37a251/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 155
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#3c612232-4a19-45d0-9008-c5df9579b198",
+				"attrs": {
+					"kyu-dan": 15,
+					"last-name": "DURAN",
+					"first-name": "ÖMER",
+					"date-of-birth": "1972-06-10",
+					"weight": 90,
+					"full-name": "DURAN ÖMER",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/3c612232-4a19-45d0-9008-c5df9579b198/image",
+					"gender": ":male",
+					"country": "TR",
+					"height": 179
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#d1f0a415-b4dd-4ff2-84c5-672ffc2464aa",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "ERDOĞAN",
+					"first-name": "SUDE",
+					"date-of-birth": "2010-03-11",
+					"weight": 49,
+					"full-name": "ERDOĞAN SUDE",
+					"club": "ESENLER BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/d1f0a415-b4dd-4ff2-84c5-672ffc2464aa/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 150
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#7d435fb2-e5d4-4d70-9e4d-bb720866c762",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "GÜNDOĞDU",
+					"first-name": "KAAN",
+					"date-of-birth": "2010-01-11",
+					"weight": 69,
+					"full-name": "GÜNDOĞDU KAAN",
+					"club": "ESENLER BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/7d435fb2-e5d4-4d70-9e4d-bb720866c762/image",
+					"gender": ":male",
+					"country": "TR",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#a636a82a-c426-4873-b024-587bef368895",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "TEKİR",
+					"first-name": "BETÜL",
+					"date-of-birth": "2007-09-26",
+					"weight": 55,
+					"full-name": "TEKİR BETÜL",
+					"club": "ESENLER BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/a636a82a-c426-4873-b024-587bef368895/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#dc7d4406-0bac-4482-8182-f84cf3cf6508",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "GÜNEŞ",
+					"first-name": "İLAYDA",
+					"date-of-birth": "2007-09-13",
+					"weight": 50,
+					"full-name": "GÜNEŞ İLAYDA",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/dc7d4406-0bac-4482-8182-f84cf3cf6508/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 149
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#ccd16fed-870b-4041-b819-de1ff181dfa4",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "KOCA",
+					"first-name": "GÖKTUĞ",
+					"date-of-birth": "2016-03-25",
+					"weight": 30,
+					"full-name": "KOCA GÖKTUĞ",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/ccd16fed-870b-4041-b819-de1ff181dfa4/image",
+					"gender": ":male",
+					"country": "TR",
+					"height": 130
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#a77193e7-0663-451f-a234-730302ab9427",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "SİZÜÇEN",
+					"first-name": "SELİM",
+					"date-of-birth": "2010-06-14",
+					"weight": 57,
+					"full-name": "SİZÜÇEN SELİM",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/a77193e7-0663-451f-a234-730302ab9427/image",
+					"gender": ":male",
+					"country": "TR",
+					"height": 164
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#d2b35c1d-ef46-44ea-9512-2416953a75ef",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "BEDİR",
+					"first-name": "MÜNEVVER",
+					"date-of-birth": "2014-12-23",
+					"weight": 42,
+					"full-name": "BEDİR MÜNEVVER",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/d2b35c1d-ef46-44ea-9512-2416953a75ef/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 148
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#88b18fa0-b182-4f84-b4e1-fb584b885f74",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "KIYICI",
+					"first-name": "TAHA ERİM",
+					"date-of-birth": "2013-10-22",
+					"weight": 35,
+					"full-name": "KIYICI TAHA ERİM",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/88b18fa0-b182-4f84-b4e1-fb584b885f74/image",
+					"gender": ":male",
+					"country": "TR",
+					"height": 148
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#088e2c7f-b884-4380-8ada-c65de7b5409a",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "ALTAŞ",
+					"first-name": "ELÇİN",
+					"date-of-birth": "2013-04-16",
+					"weight": 37,
+					"full-name": "ALTAŞ ELÇİN",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/088e2c7f-b884-4380-8ada-c65de7b5409a/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#3e9d633c-ecbe-45a2-bd36-f807bf2d8539",
+				"attrs": {
+					"kyu-dan": 5,
+					"last-name": "BALLI",
+					"first-name": "SALİH",
+					"date-of-birth": "2012-07-11",
+					"weight": 43,
+					"full-name": "BALLI SALİH",
+					"club": "YILDIRIM BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/3e9d633c-ecbe-45a2-bd36-f807bf2d8539/image",
+					"gender": ":male",
+					"country": "TR",
+					"height": 155
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9",
+				"profile-id": "#29f1b7b8-91db-457f-90b5-1b9d8e2065e4",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "SAVCU",
+					"first-name": "BÜŞRA",
+					"date-of-birth": "2010-06-14",
+					"weight": 53,
+					"full-name": "SAVCU BÜŞRA",
+					"club": "ESENLER BELEDİYESİ SPOR KULÜBÜ",
+					"image": "user-svc/7d7c3f0e-511e-4ddc-bd22-cd34c0e54ab9/29f1b7b8-91db-457f-90b5-1b9d8e2065e4/image",
+					"gender": ":female",
+					"country": "TR",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#31b612a3-be3d-4b6c-b5a4-c65e4e798c9b",
+				"profile-id": "#7e2d9d4a-f0d9-41ee-a9fa-64f74f85d300",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Meszaros",
+					"first-name": "Dorka",
+					"date-of-birth": "2011-10-03",
+					"weight": 55,
+					"full-name": "MESZAROS Dorka",
+					"club": "BC Ildiko Koszo",
+					"image": "user-svc/31b612a3-be3d-4b6c-b5a4-c65e4e798c9b/7e2d9d4a-f0d9-41ee-a9fa-64f74f85d300/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 158
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#31b612a3-be3d-4b6c-b5a4-c65e4e798c9b",
+				"profile-id": "#e73d6194-66a3-4e49-90e5-5f2a47780106",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Franki",
+					"first-name": "Dorina",
+					"date-of-birth": "2011-08-14",
+					"weight": 162,
+					"full-name": "FRANKI Dorina",
+					"club": "BC Ildiko Koszo",
+					"image": "user-svc/31b612a3-be3d-4b6c-b5a4-c65e4e798c9b/e73d6194-66a3-4e49-90e5-5f2a47780106/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 63
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#31b612a3-be3d-4b6c-b5a4-c65e4e798c9b",
+				"profile-id": "#932fdb22-3f81-4da1-a5b2-f99f21521878",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Franki",
+					"first-name": "Reka",
+					"date-of-birth": "2010-01-24",
+					"weight": 59,
+					"full-name": "FRANKI Reka",
+					"club": "BC Ildiko Koszo",
+					"image": "user-svc/31b612a3-be3d-4b6c-b5a4-c65e4e798c9b/932fdb22-3f81-4da1-a5b2-f99f21521878/image",
+					"gender": ":female",
+					"country": "HU",
+					"height": 163
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#31b612a3-be3d-4b6c-b5a4-c65e4e798c9b",
+				"profile-id": "#e480bc27-886f-4a17-ace1-b3c44762b63a",
+				"attrs": {
+					"kyu-dan": 8,
+					"last-name": "Kolonics",
+					"first-name": "Mark",
+					"date-of-birth": "2008-08-17",
+					"weight": 62,
+					"full-name": "KOLONICS Mark",
+					"club": "BC Ildiko Koszo",
+					"image": "user-svc/31b612a3-be3d-4b6c-b5a4-c65e4e798c9b/e480bc27-886f-4a17-ace1-b3c44762b63a/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 168
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#31b612a3-be3d-4b6c-b5a4-c65e4e798c9b",
+				"profile-id": "#d4114080-81bf-4b3f-8cff-23c2d9cea815",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Franki",
+					"first-name": "Karoly",
+					"date-of-birth": "1976-08-11",
+					"weight": 79,
+					"full-name": "FRANKI Karoly",
+					"club": "BC Ildiko Koszo",
+					"image": "user-svc/31b612a3-be3d-4b6c-b5a4-c65e4e798c9b/d4114080-81bf-4b3f-8cff-23c2d9cea815/image",
+					"gender": ":male",
+					"country": "HU",
+					"height": 177
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"required-checks": {
+					"medical-certificate": false,
+					"parent-consent": false
+				},
+				"user-id": "#68f6a3fb-9bd9-4978-a260-d499ee3ca79e",
+				"profile-id": "#781a2c8f-e121-4db5-b65d-7fa0952104d3",
+				"attrs": {
+					"kyu-dan": 1,
+					"last-name": "Romanovic",
+					"first-name": "Danilo",
+					"date-of-birth": "2010-02-01",
+					"weight": 59,
+					"count": 0,
+					"full-name": "ROMANOVIC Danilo",
+					"club": "Kyokushin Austria",
+					"image": "user-svc/68f6a3fb-9bd9-4978-a260-d499ee3ca79e/781a2c8f-e121-4db5-b65d-7fa0952104d3/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 180
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#cc376593-14ee-45c8-8103-cb7e1e203c2c",
+				"attrs": {
+					"kyu-dan": 14,
+					"last-name": "Kahle",
+					"first-name": "Peter",
+					"date-of-birth": "1985-10-16",
+					"weight": 118,
+					"full-name": "KAHLE Peter",
+					"club": "Fusion Dojo ",
+					"gender": ":male",
+					"country": "Deutschland",
+					"height": 186
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#d3c1a7c8-9716-4beb-b07b-2c8f6d5a3da9",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Bieniek",
+					"first-name": "Livia",
+					"date-of-birth": "2010-07-19",
+					"weight": 59,
+					"full-name": "BIENIEK Livia",
+					"club": "Fusion Dojo ",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/d3c1a7c8-9716-4beb-b07b-2c8f6d5a3da9/image",
+					"gender": ":female",
+					"country": "DE",
+					"height": 159
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#1dcd61bf-fdf8-4f51-8c08-de1a8d41c18e",
+				"attrs": {
+					"kyu-dan": 13,
+					"last-name": "Ebadi",
+					"first-name": "Mehdi",
+					"date-of-birth": "1998-03-15",
+					"weight": 69,
+					"full-name": "EBADI Mehdi",
+					"club": "Tekken Dojo ",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/1dcd61bf-fdf8-4f51-8c08-de1a8d41c18e/image",
+					"gender": ":male",
+					"country": "Deutschland",
+					"height": 172
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#095dcf68-60b0-4675-a3ab-010506717fb3",
+				"attrs": {
+					"kyu-dan": 10,
+					"last-name": "Kahle",
+					"first-name": "Janina",
+					"date-of-birth": "1983-08-17",
+					"weight": 74,
+					"full-name": "KAHLE Janina",
+					"club": "Fusion Dojo",
+					"gender": ":female",
+					"country": "Deutschland",
+					"height": 174
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#38a07e3e-9545-43e3-b2dc-2f2164540423",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "Wahle",
+					"first-name": "Berengar",
+					"date-of-birth": "2013-04-01",
+					"weight": 68,
+					"full-name": "WAHLE Berengar",
+					"club": "Fusion Dojo ",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/38a07e3e-9545-43e3-b2dc-2f2164540423/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 166
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#0997a8be-e22b-440a-95b1-c376ac801ee2",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Wahle",
+					"first-name": "Gesa",
+					"date-of-birth": "2017-05-24",
+					"weight": 28,
+					"full-name": "WAHLE Gesa",
+					"club": "Fusion Dojo",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/0997a8be-e22b-440a-95b1-c376ac801ee2/image",
+					"gender": ":female",
+					"country": "DE",
+					"height": 135
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#4f61ab52-6f27-423e-8d9f-9376e012a201",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "Ebadi",
+					"first-name": "Marina",
+					"date-of-birth": "1987-09-27",
+					"weight": 59,
+					"full-name": "EBADI Marina",
+					"club": "Tekken Dojo",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/4f61ab52-6f27-423e-8d9f-9376e012a201/image",
+					"gender": ":female",
+					"country": "DE",
+					"height": 168
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#6d02ec1b-f6e9-4d93-9782-7c25f047fac0",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "Bieniek",
+					"first-name": "Elina",
+					"date-of-birth": "2014-02-17",
+					"weight": 43,
+					"full-name": "BIENIEK Elina",
+					"club": "Fusion Dojo",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/6d02ec1b-f6e9-4d93-9782-7c25f047fac0/image",
+					"gender": ":female",
+					"country": "DE",
+					"height": 154
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#a915a2cc-d8eb-469c-90ba-648d02002529",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Bieniek",
+					"first-name": "Nadja",
+					"date-of-birth": "1974-12-21",
+					"weight": 65,
+					"full-name": "BIENIEK Nadja",
+					"club": "Fusion Dojo",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/a915a2cc-d8eb-469c-90ba-648d02002529/image",
+					"gender": ":female",
+					"country": "DE",
+					"height": 163
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#868ba49f-9e46-4d20-ba17-86c9708c4fe6",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Fröhlich",
+					"first-name": "Clara",
+					"date-of-birth": "2016-09-22",
+					"weight": 29,
+					"full-name": "FRÖHLICH Clara",
+					"club": "Fusion Dojo",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/868ba49f-9e46-4d20-ba17-86c9708c4fe6/image",
+					"gender": ":female",
+					"country": "DE",
+					"height": 136
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#1047515d-3c7c-40fe-8a96-166efe12bcba",
+				"profile-id": "#dc7ace41-9af8-416c-a2fe-3795d1ef9f87",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "Fröhlich",
+					"first-name": "Max",
+					"date-of-birth": "2014-12-09",
+					"weight": 30,
+					"full-name": "FRÖHLICH Max",
+					"club": "Fusion Dojo",
+					"image": "user-svc/1047515d-3c7c-40fe-8a96-166efe12bcba/dc7ace41-9af8-416c-a2fe-3795d1ef9f87/image",
+					"gender": ":male",
+					"country": "DE",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#e22b4755-4b88-4a34-8ea4-32bbcef1b66e",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "ČIĆ",
+					"first-name": "Dora",
+					"date-of-birth": "2016-01-15",
+					"weight": 40,
+					"full-name": "ČIĆ Dora",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/e22b4755-4b88-4a34-8ea4-32bbcef1b66e/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 139
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#d1f9937e-f0b1-41bd-ab26-548ba80682c2",
+				"attrs": {
+					"kyu-dan": 6,
+					"last-name": "ŠEVO",
+					"first-name": "Stella",
+					"date-of-birth": "2016-07-02",
+					"weight": 39,
+					"full-name": "ŠEVO Stella",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/d1f9937e-f0b1-41bd-ab26-548ba80682c2/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 141
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#d2330d95-d8d0-4311-9a5e-8a8bf12b8665",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "NASR",
+					"first-name": "Laila",
+					"date-of-birth": "2015-12-18",
+					"weight": 35,
+					"full-name": "NASR Laila",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/d2330d95-d8d0-4311-9a5e-8a8bf12b8665/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 137
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#b3b53f1b-5f8e-4fcc-a9e2-61ea91203c2c",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "PLANINČIĆ",
+					"first-name": "Antonija",
+					"date-of-birth": "2014-12-10",
+					"weight": 34,
+					"full-name": "PLANINČIĆ Antonija",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/b3b53f1b-5f8e-4fcc-a9e2-61ea91203c2c/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 143
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#78914cde-7c2c-42fd-9aa3-10638ba898da",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "KUHAR",
+					"first-name": "Luka",
+					"date-of-birth": "2014-03-27",
+					"weight": 39,
+					"full-name": "KUHAR Luka",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/78914cde-7c2c-42fd-9aa3-10638ba898da/image",
+					"gender": ":male",
+					"country": "HR",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#01fe19ab-ddb1-4fcf-adc2-a87f8a2f7cf7",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "FRESL",
+					"first-name": "Kristijan",
+					"date-of-birth": "2014-09-16",
+					"weight": 41,
+					"full-name": "FRESL Kristijan",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/01fe19ab-ddb1-4fcf-adc2-a87f8a2f7cf7/image",
+					"gender": ":male",
+					"country": "HR",
+					"height": 143
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#02cb20f6-f30b-484a-9581-df320e3b7f99",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "KOŠČICA",
+					"first-name": "Rafael",
+					"date-of-birth": "2014-02-03",
+					"weight": 38,
+					"full-name": "KOŠČICA Rafael",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/02cb20f6-f30b-484a-9581-df320e3b7f99/image",
+					"gender": ":male",
+					"country": "HR",
+					"height": 142
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#8159d6f5-3df7-48de-b958-c14ee89ee313",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "ČIĆ",
+					"first-name": "Noa",
+					"date-of-birth": "2011-03-09",
+					"weight": 50,
+					"full-name": "ČIĆ Noa",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/8159d6f5-3df7-48de-b958-c14ee89ee313/image",
+					"gender": ":male",
+					"country": "HR",
+					"height": 162
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#fc8b5280-8e2a-4ed1-aa8e-01bfeb68b77e",
+				"attrs": {
+					"kyu-dan": 4,
+					"last-name": "OBRANIĆ",
+					"first-name": "BRUNA",
+					"date-of-birth": "2015-07-29",
+					"weight": 28,
+					"full-name": "OBRANIĆ BRUNA",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/fc8b5280-8e2a-4ed1-aa8e-01bfeb68b77e/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 134
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#84f08c57-da60-4c76-82c0-8c7c51451810",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "GULIŠ",
+					"first-name": "IVONA",
+					"date-of-birth": "2015-07-23",
+					"weight": 49,
+					"full-name": "GULIŠ IVONA",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/84f08c57-da60-4c76-82c0-8c7c51451810/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 145
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#e1fdef15-89de-4021-95dc-2743102ad905",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "LEHPAMER",
+					"first-name": "FRAN",
+					"date-of-birth": "2017-07-20",
+					"weight": 25,
+					"full-name": "LEHPAMER FRAN",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/e1fdef15-89de-4021-95dc-2743102ad905/image",
+					"gender": ":male",
+					"country": "HR",
+					"height": 135
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#3889eb95-3c93-4623-a9ff-5251d566221d",
+				"attrs": {
+					"kyu-dan": 2,
+					"last-name": "FRESL",
+					"first-name": "NIA",
+					"date-of-birth": "2017-07-16",
+					"weight": 34,
+					"full-name": "FRESL NIA",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/3889eb95-3c93-4623-a9ff-5251d566221d/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 139
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#577b440b-5732-4440-be12-69381db42ba9",
+				"attrs": {
+					"kyu-dan": 7,
+					"last-name": "SITTA",
+					"first-name": "ELENA",
+					"date-of-birth": "2013-07-06",
+					"weight": 61,
+					"full-name": "SITTA ELENA",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/577b440b-5732-4440-be12-69381db42ba9/image",
+					"gender": ":female",
+					"country": "HR",
+					"height": 160
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#6c52465e-0004-4a7e-a49b-caa512d42b3b",
+				"profile-id": "#e4bbca91-a20b-46e3-89d8-ee7089b7b27f",
+				"attrs": {
+					"kyu-dan": 13,
+					"last-name": "FRESL",
+					"first-name": "Miroslav",
+					"date-of-birth": "1980-08-28",
+					"weight": 80,
+					"full-name": "FRESL Miroslav",
+					"club": "Feniks Rude",
+					"image": "user-svc/6c52465e-0004-4a7e-a49b-caa512d42b3b/e4bbca91-a20b-46e3-89d8-ee7089b7b27f/image",
+					"gender": ":male",
+					"country": "HR",
+					"height": 174
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#4ef696ff-61d9-4f04-8a30-83918fcf548d",
+				"profile-id": "#13fd10bb-e4b2-4785-8e61-b1149bb89b55",
+				"attrs": {
+					"kyu-dan": 11,
+					"last-name": "Drabik",
+					"first-name": "Paulina",
+					"date-of-birth": "2006-02-18",
+					"weight": 60,
+					"full-name": "DRABIK Paulina",
+					"club": "Dzierżoniowski Klub Sportowy Karate Kyokushin ",
+					"image": "user-svc/4ef696ff-61d9-4f04-8a30-83918fcf548d/13fd10bb-e4b2-4785-8e61-b1149bb89b55/image",
+					"gender": ":female",
+					"country": "Polska",
+					"height": 165
+				},
+				"activities": [
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#4ef696ff-61d9-4f04-8a30-83918fcf548d",
+				"profile-id": "#ccd347c3-c960-4315-8ad4-4c508e9dc905",
+				"attrs": {
+					"kyu-dan": 12,
+					"last-name": "Królikowski",
+					"first-name": "Ryszard",
+					"date-of-birth": "1974-05-26",
+					"weight": 90,
+					"full-name": "KRÓLIKOWSKI Ryszard",
+					"club": "Dzierżoniowski Klub Sportowy Karate Kyokushin",
+					"image": "user-svc/4ef696ff-61d9-4f04-8a30-83918fcf548d/ccd347c3-c960-4315-8ad4-4c508e9dc905/image",
+					"gender": ":male",
+					"country": "PL",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#f683f35b-bfae-4933-ab17-cca85bff4717"
+					}
+				]
+			},
+			{
+				"user-id": "#a4a8ff91-3f7c-4141-b14e-fa092bc169a8",
+				"profile-id": "#8c82e89c-4915-4044-866d-a12a2f53050f",
+				"attrs": {
+					"kyu-dan": 3,
+					"last-name": "Septimus",
+					"first-name": "Joseph",
+					"date-of-birth": "2015-12-31",
+					"weight": 26,
+					"full-name": "SEPTIMUS Joseph",
+					"club": "Samurai",
+					"image": "user-svc/a4a8ff91-3f7c-4141-b14e-fa092bc169a8/8c82e89c-4915-4044-866d-a12a2f53050f/image",
+					"gender": ":male",
+					"country": "AT",
+					"height": 134
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			},
+			{
+				"user-id": "#c6d8df31-e8c7-4eda-a4ae-0345316d2c1b",
+				"profile-id": "#5fa0d322-8075-4372-a621-03c499a1153c",
+				"attrs": {
+					"kyu-dan": 9,
+					"last-name": "Lapshun",
+					"first-name": "Taisiia",
+					"date-of-birth": "2009-06-08",
+					"weight": 59,
+					"full-name": "LAPSHUN Taisiia",
+					"club": "IKO Slovakia",
+					"image": "user-svc/c6d8df31-e8c7-4eda-a4ae-0345316d2c1b/5fa0d322-8075-4372-a621-03c499a1153c/image",
+					"gender": ":female",
+					"country": "SK",
+					"height": 170
+				},
+				"activities": [
+					{
+						"activity-id": "#ce39afa8-0894-45a2-b77f-8096c0958db0"
+					},
+					{
+						"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e"
+					}
+				]
+			}
+		],
+		"categories": [
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 6,
+					"enabled": true,
+					"to": 7
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Boys U7",
+				"category-id": "#4a9afed8-f587-4282-979e-32cd778b07c6",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 8,
+					"enabled": true,
+					"to": 9
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Boys U9",
+				"category-id": "#5d711656-2d19-405e-9fe6-8ce16d632b0e",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 10,
+					"enabled": true,
+					"to": 12
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Boys U12",
+				"category-id": "#522efa81-9a2b-4b2b-ace2-6cfb93052083",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 13,
+					"enabled": true,
+					"to": 15
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Boys U15",
+				"category-id": "#89ecda39-fa8a-4d00-94d6-08b97e830d02",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 16,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Boys 16+",
+				"category-id": "#c98222d8-804c-4781-b3b2-95a8d026794c",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 6,
+					"enabled": true,
+					"to": 7
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Girls U7",
+				"category-id": "#f9216e8a-1ac2-4064-a3d9-bb226f75a87a",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 8,
+					"enabled": true,
+					"to": 9
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Girls U9",
+				"category-id": "#790a46f2-1dca-4d81-a7b9-55e1d58eecf0",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 10,
+					"enabled": true,
+					"to": 12
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Girls U12",
+				"category-id": "#fb4ddd9f-7a9c-4825-a12b-c7fda5fe9967",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 13,
+					"enabled": true,
+					"to": 15
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Girls U15",
+				"category-id": "#03767871-b449-4991-a583-f43480a457c4",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 3
+				},
+				"age": {
+					"from": 16,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "D Girls 16+",
+				"category-id": "#d96fdff8-0a40-4b52-9ef5-a1a9b5bbf054",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 7,
+					"enabled": true,
+					"to": 9
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Boys U7",
+				"category-id": "#309fccec-d0b5-4c4e-9c5d-ef4f9ec976fd",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 1,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 10,
+					"enabled": true,
+					"to": 12
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Boys U10",
+				"category-id": "#44a7971c-3054-4d53-b796-2fdc5d12f8a4",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 13,
+					"enabled": true,
+					"to": 15
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Boys U13",
+				"category-id": "#eba6e32f-8f61-4c13-b01d-e4a653c0b4a2",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 16,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Boys 16+",
+				"category-id": "#aa78eed6-ea9d-4e20-a6b0-a99f46506bf6",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 7,
+					"enabled": true,
+					"to": 9
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Girls U7",
+				"category-id": "#30011302-ee9b-4145-87af-310c6ea0054c",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 10,
+					"enabled": true,
+					"to": 12
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Girls U10",
+				"category-id": "#95b99b25-cc41-4ad2-952f-233096dca051",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 13,
+					"enabled": true,
+					"to": 15
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Girls U13",
+				"category-id": "#e3bd59b5-a528-4c26-a566-2b35c6d08163",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 4,
+					"enabled": true,
+					"to": 7
+				},
+				"age": {
+					"from": 16,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "C Girls 16+",
+				"category-id": "#1c4a55e9-b900-4af6-80c9-3cf13f17469f",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 8,
+					"enabled": true,
+					"to": 11
+				},
+				"age": {
+					"from": 9,
+					"enabled": true,
+					"to": 12
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "B Boys U9",
+				"category-id": "#f8db5645-c74b-41dc-910c-c43d2ab912cf",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 8,
+					"enabled": true,
+					"to": 11
+				},
+				"age": {
+					"from": 13,
+					"enabled": true,
+					"to": 15
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "B Boys U13",
+				"category-id": "#e84734d2-cf42-4230-8ffc-96c52d7bc054",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 8,
+					"enabled": true,
+					"to": 11
+				},
+				"age": {
+					"from": 16,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "B Boys 16+",
+				"category-id": "#c2ed8b5b-4b31-455e-994c-27782f426737",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 8,
+					"enabled": true,
+					"to": 11
+				},
+				"age": {
+					"from": 9,
+					"enabled": true,
+					"to": 12
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "B Girls U9",
+				"category-id": "#a259f803-9a98-4062-be4d-c44971df57c4",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 8,
+					"enabled": true,
+					"to": 11
+				},
+				"age": {
+					"from": 13,
+					"enabled": true,
+					"to": 15
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "B Girls U13",
+				"category-id": "#85ae9872-13a5-4eff-a095-6fd16d56e0b4",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 8,
+					"enabled": true,
+					"to": 11
+				},
+				"age": {
+					"from": 16,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "B Girls 16+",
+				"category-id": "#17bfbcf3-c87b-4660-b10d-6c11f0db7156",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 12,
+					"enabled": true,
+					"to": 21
+				},
+				"age": {
+					"from": 12,
+					"enabled": true,
+					"to": 14
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "A Boys U12",
+				"category-id": "#87352add-3282-4c35-bc29-3790f8cf2ab6",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 12,
+					"enabled": true,
+					"to": 21
+				},
+				"age": {
+					"from": 15,
+					"enabled": true,
+					"to": 17
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "A Boys U15",
+				"category-id": "#d93194cf-0be5-4e63-917a-05c0ce7909b7",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 12,
+					"enabled": true,
+					"to": 21
+				},
+				"age": {
+					"from": 18,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "A Boys 18+",
+				"category-id": "#b6a707dc-1190-4fb7-855a-884d2a6d902e",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":male"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 12,
+					"enabled": true,
+					"to": 21
+				},
+				"age": {
+					"from": 12,
+					"enabled": true,
+					"to": 14
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "A Girls U12",
+				"category-id": "#e0bb4db3-1527-4b73-a2a7-5e9ae26ff9cf",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 12,
+					"enabled": true,
+					"to": 21
+				},
+				"age": {
+					"from": 15,
+					"enabled": true,
+					"to": 17
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "A Girls U15",
+				"category-id": "#592dec5a-db15-4899-ab9c-adc3c4c34e3c",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			},
+			{
+				"kyu-dan": {
+					"from": 12,
+					"enabled": true,
+					"to": 21
+				},
+				"age": {
+					"from": 18,
+					"enabled": true,
+					"to": 99
+				},
+				"activity-id": "#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e",
+				"name": "A Girls 18+",
+				"category-id": "#184beecf-da4a-4303-a67f-43fbffa276bc",
+				"weight": {
+					"from": 0,
+					"enabled": false,
+					"to": 99
+				},
+				"gender": [
+					":female"
+				]
+			}
+		],
+		"activity-config": {
+			"#f9fa7f0e-c2ad-4da6-a08f-52f15c56ec9e": {
+				"activity-type": ":points",
+				"my-team": "Kyokushin Austria"
+			}
+		}
+	},
+	"version": 264
+}
